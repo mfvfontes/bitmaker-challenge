@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2>The value for your captcha is <%= @result %>!</h2>
+  <button onClick="javascript:window.location.href='/'">Go back</button>
+</div>

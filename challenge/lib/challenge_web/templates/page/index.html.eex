@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}!", name: "BCaptcha" %></h2>
+  <form method = "get" action = "/challenge/">
+    <input type = "text" name = "captcha" placeholder = "e.g. 11221">
+    <input type = "submit" name = "submit_captcha" value = "Captch me">
+  </form>
+</div>
