@@ -4,6 +4,8 @@ Please visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Type any positive number on the textbox and click **Captch me**. 
 
+![alt text](https://github.com/mfvfontes/bitmaker-challenge/blob/master/challenge/assets/static/images/bcaptcha.png "Homepage")
+
 You will be redirected to another page where the value of your captcha will be shown.
 
 ![alt text](https://github.com/mfvfontes/bitmaker-challenge/blob/master/challenge/assets/static/images/captcha_result.png "Captcha result")
